@@ -1,4 +1,4 @@
-![Jekyll Lens](https://i.imgur.com/Qi7gdQC.png)
+![Jekyll Lens](https://drive.google.com/file/d/17fzilRBRDRiwTrV36n2RiLH-bjPQsVuy/view?usp=drivesdk)
 
 # Lens
 *A Jekyll website  for photographers and photo bloggers.*
